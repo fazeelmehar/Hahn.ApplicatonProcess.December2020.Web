@@ -1,0 +1,327 @@
+2021-02-22 20:38:27.383 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 20:38:28.126 +04:00 [INF] Isert Called 2/22/2021 4:38:28 PM +00:00
+2021-02-22 20:38:43.966 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 16415.6908 ms
+2021-02-22 20:38:56.278 +04:00 [INF] Isert Called 2/22/2021 4:38:56 PM +00:00
+2021-02-22 20:39:01.730 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 5455.3403 ms
+2021-02-22 20:44:52.806 +04:00 [INF] Isert Called 2/22/2021 4:44:52 PM +00:00
+2021-02-22 20:44:53.831 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1026.4967 ms
+2021-02-22 20:46:46.082 +04:00 [INF] Isert Called 2/22/2021 4:46:46 PM +00:00
+2021-02-22 20:46:47.030 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 948.4567 ms
+2021-02-22 20:51:34.459 +04:00 [INF] Isert Called 2/22/2021 4:51:34 PM +00:00
+2021-02-22 20:51:36.222 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1763.9782 ms
+2021-02-22 20:51:58.703 +04:00 [INF] Isert Called 2/22/2021 4:51:58 PM +00:00
+2021-02-22 20:51:59.709 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1007.4879 ms
+2021-02-22 20:53:49.584 +04:00 [INF] Isert Called 2/22/2021 4:53:49 PM +00:00
+2021-02-22 20:53:50.284 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 700.7266 ms
+2021-02-22 20:54:13.437 +04:00 [INF] Isert Called 2/22/2021 4:54:13 PM +00:00
+2021-02-22 20:54:14.030 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 594.5108 ms
+2021-02-22 20:54:37.419 +04:00 [INF] Isert Called 2/22/2021 4:54:37 PM +00:00
+2021-02-22 20:54:38.240 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 821.1736 ms
+2021-02-22 20:55:13.171 +04:00 [INF] Isert Called 2/22/2021 4:55:13 PM +00:00
+2021-02-22 20:55:14.206 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1035.2294 ms
+2021-02-22 20:56:26.038 +04:00 [INF] Isert Called 2/22/2021 4:56:26 PM +00:00
+2021-02-22 20:56:27.087 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1049.0148 ms
+2021-02-22 20:57:08.570 +04:00 [INF] Isert Called 2/22/2021 4:57:08 PM +00:00
+2021-02-22 20:57:11.249 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 2709.7173 ms
+2021-02-22 20:57:38.608 +04:00 [INF] Isert Called 2/22/2021 4:57:38 PM +00:00
+2021-02-22 20:57:40.057 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1449.8980 ms
+2021-02-22 20:58:05.015 +04:00 [INF] Isert Called 2/22/2021 4:58:05 PM +00:00
+2021-02-22 20:58:05.980 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 972.8796 ms
+2021-02-22 20:58:18.083 +04:00 [INF] Isert Called 2/22/2021 4:58:18 PM +00:00
+2021-02-22 20:58:19.495 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1412.1409 ms
+2021-02-22 20:58:37.179 +04:00 [INF] Isert Called 2/22/2021 4:58:37 PM +00:00
+2021-02-22 20:58:38.106 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 928.1004 ms
+2021-02-22 20:59:18.643 +04:00 [INF] Isert Called 2/22/2021 4:59:18 PM +00:00
+2021-02-22 20:59:19.342 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 700.0131 ms
+2021-02-22 20:59:36.339 +04:00 [INF] Isert Called 2/22/2021 4:59:36 PM +00:00
+2021-02-22 20:59:37.805 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1466.0962 ms
+2021-02-22 21:02:11.788 +04:00 [INF] Isert Called 2/22/2021 5:02:11 PM +00:00
+2021-02-22 21:02:15.941 +04:00 [INF] HTTP POST /Applicant/Insert responded 201 in 4152.9406 ms
+2021-02-22 21:04:13.613 +04:00 [INF] Isert Called 2/22/2021 5:04:13 PM +00:00
+2021-02-22 21:04:14.282 +04:00 [INF] HTTP POST /Applicant/Insert responded 201 in 694.2837 ms
+2021-02-22 21:04:42.109 +04:00 [INF] Isert Called 2/22/2021 5:04:42 PM +00:00
+2021-02-22 21:04:42.787 +04:00 [INF] HTTP POST /Applicant/Insert responded 201 in 683.0652 ms
+2021-02-22 21:07:49.772 +04:00 [INF] Isert Called 2/22/2021 5:07:49 PM +00:00
+2021-02-22 21:07:50.799 +04:00 [INF] HTTP POST /Applicant/Insert responded 201 in 1053.4199 ms
+2021-02-22 21:08:42.192 +04:00 [INF] Isert Called 2/22/2021 5:08:42 PM +00:00
+2021-02-22 21:08:42.631 +04:00 [INF] HTTP POST /Applicant/Insert responded 201 in 439.9231 ms
+2021-02-22 21:24:49.907 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 21:24:50.523 +04:00 [INF] GetAll Called 2/22/2021 5:24:50 PM +00:00
+2021-02-22 21:24:54.336 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 4277.3522 ms
+2021-02-22 21:42:22.852 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 21:42:23.493 +04:00 [INF] Isert Called 2/22/2021 5:42:23 PM +00:00
+2021-02-22 21:42:25.793 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 2782.9055 ms
+2021-02-22 21:43:29.061 +04:00 [INF] Isert Called 2/22/2021 5:43:29 PM +00:00
+2021-02-22 21:43:31.336 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 2289.2517 ms
+2021-02-22 21:43:48.819 +04:00 [INF] Isert Called 2/22/2021 5:43:48 PM +00:00
+2021-02-22 21:43:50.111 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1292.7535 ms
+2021-02-22 21:44:12.150 +04:00 [INF] Isert Called 2/22/2021 5:44:12 PM +00:00
+2021-02-22 21:44:12.636 +04:00 [INF] Isert Called 2/22/2021 5:44:12 PM +00:00
+2021-02-22 21:44:13.418 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1277.4659 ms
+2021-02-22 21:44:13.919 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1282.8646 ms
+2021-02-22 21:46:16.177 +04:00 [INF] GetAll Called 2/22/2021 5:46:16 PM +00:00
+2021-02-22 21:46:19.285 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 3131.4632 ms
+2021-02-22 21:46:41.728 +04:00 [INF] GetAll Called 2/22/2021 5:46:41 PM +00:00
+2021-02-22 21:46:41.846 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 118.0493 ms
+2021-02-22 21:47:01.557 +04:00 [INF] Isert Called 2/22/2021 5:47:01 PM +00:00
+2021-02-22 21:47:03.457 +04:00 [INF] HTTP POST /Applicant/Insert responded 400 in 1900.9726 ms
+2021-02-22 21:47:12.414 +04:00 [INF] GetAll Called 2/22/2021 5:47:12 PM +00:00
+2021-02-22 21:47:12.442 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 28.0885 ms
+2021-02-22 21:47:40.026 +04:00 [INF] GetAll Called 2/22/2021 5:47:40 PM +00:00
+2021-02-22 21:47:40.085 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 58.6968 ms
+2021-02-22 21:48:14.271 +04:00 [INF] GetAll Called 2/22/2021 5:48:14 PM +00:00
+2021-02-22 21:48:14.292 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 21.4788 ms
+2021-02-22 21:48:38.186 +04:00 [INF] GetAll Called 2/22/2021 5:48:38 PM +00:00
+2021-02-22 21:48:38.225 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 39.2490 ms
+2021-02-22 21:48:53.102 +04:00 [INF] GetAll Called 2/22/2021 5:48:53 PM +00:00
+2021-02-22 21:48:53.172 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 75.6019 ms
+2021-02-22 21:49:24.715 +04:00 [INF] GetAll Called 2/22/2021 5:49:24 PM +00:00
+2021-02-22 21:49:24.840 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 124.9322 ms
+2021-02-22 21:51:26.356 +04:00 [INF] GetAll Called 2/22/2021 5:51:26 PM +00:00
+2021-02-22 21:51:26.516 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 159.6900 ms
+2021-02-22 21:52:13.971 +04:00 [INF] GetAll Called 2/22/2021 5:52:13 PM +00:00
+2021-02-22 21:52:13.987 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 16.1855 ms
+2021-02-22 21:52:33.068 +04:00 [INF] GetAll Called 2/22/2021 5:52:33 PM +00:00
+2021-02-22 21:52:33.097 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 31.1002 ms
+2021-02-22 21:53:40.903 +04:00 [INF] GetAll Called 2/22/2021 5:53:40 PM +00:00
+2021-02-22 21:53:40.916 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 13.3845 ms
+2021-02-22 21:54:06.755 +04:00 [INF] GetAll Called 2/22/2021 5:54:06 PM +00:00
+2021-02-22 21:54:06.797 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 41.9551 ms
+2021-02-22 22:07:42.287 +04:00 [INF] GetAll Called 2/22/2021 6:07:42 PM +00:00
+2021-02-22 22:07:42.359 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 74.6390 ms
+2021-02-22 22:08:13.371 +04:00 [INF] GetAll Called 2/22/2021 6:08:13 PM +00:00
+2021-02-22 22:08:13.396 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 25.0537 ms
+2021-02-22 22:09:58.290 +04:00 [INF] GetAll Called 2/22/2021 6:09:58 PM +00:00
+2021-02-22 22:09:58.340 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 49.8988 ms
+2021-02-22 22:10:01.038 +04:00 [INF] HTTP DELETE /Applicant/Delete13 responded 404 in 0.2305 ms
+2021-02-22 22:10:16.370 +04:00 [INF] GetAll Called 2/22/2021 6:10:16 PM +00:00
+2021-02-22 22:10:16.413 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 42.9679 ms
+2021-02-22 22:10:19.213 +04:00 [INF] HTTP DELETE /Applicant/Delete/13 responded 404 in 0.1077 ms
+2021-02-22 22:10:49.206 +04:00 [INF] HTTP DELETE /Applicant/Delete/9 responded 404 in 0.0295 ms
+2021-02-22 22:11:56.894 +04:00 [INF] GetAll Called 2/22/2021 6:11:56 PM +00:00
+2021-02-22 22:11:56.936 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 42.2253 ms
+2021-02-22 22:12:00.556 +04:00 [INF] HTTP DELETE /Applicant/Delete/7 responded 404 in 0.0275 ms
+2021-02-22 22:12:16.262 +04:00 [INF] HTTP GET /Applicant/Delete/7 responded 404 in 0.0265 ms
+2021-02-22 22:12:24.937 +04:00 [INF] HTTP GET /Applicant/Delete?Id=7 responded 405 in 0.2564 ms
+2021-02-22 22:12:30.132 +04:00 [INF] HTTP GET /Applicant/Delete?id=7 responded 405 in 0.0597 ms
+2021-02-22 22:12:46.208 +04:00 [INF] HTTP GET /Applicant/Delete responded 405 in 0.0381 ms
+2021-02-22 22:12:50.434 +04:00 [INF] HTTP GET /Applicant/Delete/7 responded 404 in 0.0173 ms
+2021-02-22 22:13:27.078 +04:00 [INF] HTTP DELETE /Applicant/Delete/7 responded 404 in 0.0166 ms
+2021-02-22 22:13:46.107 +04:00 [INF] Delete Called 2/22/2021 6:13:46 PM +00:00
+2021-02-22 22:13:46.663 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=7 responded 200 in 6231.8724 ms
+2021-02-22 22:14:18.475 +04:00 [INF] GetAll Called 2/22/2021 6:14:18 PM +00:00
+2021-02-22 22:14:18.515 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 40.0817 ms
+2021-02-22 22:14:28.641 +04:00 [INF] Delete Called 2/22/2021 6:14:28 PM +00:00
+2021-02-22 22:14:28.657 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=4 responded 200 in 5349.6719 ms
+2021-02-22 22:14:28.675 +04:00 [INF] GetAll Called 2/22/2021 6:14:28 PM +00:00
+2021-02-22 22:14:28.693 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 18.0428 ms
+2021-02-22 22:14:31.423 +04:00 [INF] Delete Called 2/22/2021 6:14:31 PM +00:00
+2021-02-22 22:14:31.430 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=13 responded 200 in 7.8475 ms
+2021-02-22 22:14:31.450 +04:00 [INF] GetAll Called 2/22/2021 6:14:31 PM +00:00
+2021-02-22 22:14:31.459 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 9.2435 ms
+2021-02-22 22:14:32.550 +04:00 [INF] Delete Called 2/22/2021 6:14:32 PM +00:00
+2021-02-22 22:14:32.563 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=12 responded 200 in 12.7267 ms
+2021-02-22 22:14:32.607 +04:00 [INF] GetAll Called 2/22/2021 6:14:32 PM +00:00
+2021-02-22 22:14:32.615 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 11.8189 ms
+2021-02-22 22:14:33.534 +04:00 [INF] Delete Called 2/22/2021 6:14:33 PM +00:00
+2021-02-22 22:14:33.550 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=11 responded 200 in 18.8673 ms
+2021-02-22 22:14:33.567 +04:00 [INF] GetAll Called 2/22/2021 6:14:33 PM +00:00
+2021-02-22 22:14:33.576 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 9.2299 ms
+2021-02-22 22:14:39.062 +04:00 [INF] GetAll Called 2/22/2021 6:14:39 PM +00:00
+2021-02-22 22:14:39.142 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 80.1467 ms
+2021-02-22 22:14:40.468 +04:00 [INF] Delete Called 2/22/2021 6:14:40 PM +00:00
+2021-02-22 22:14:40.485 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=10 responded 200 in 17.6717 ms
+2021-02-22 22:14:40.509 +04:00 [INF] GetAll Called 2/22/2021 6:14:40 PM +00:00
+2021-02-22 22:14:40.517 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 8.0292 ms
+2021-02-22 22:14:40.920 +04:00 [INF] Delete Called 2/22/2021 6:14:40 PM +00:00
+2021-02-22 22:14:40.936 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=9 responded 200 in 15.5395 ms
+2021-02-22 22:14:40.960 +04:00 [INF] GetAll Called 2/22/2021 6:14:40 PM +00:00
+2021-02-22 22:14:40.968 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 8.1923 ms
+2021-02-22 22:14:41.754 +04:00 [INF] Delete Called 2/22/2021 6:14:41 PM +00:00
+2021-02-22 22:14:41.779 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=8 responded 200 in 24.5945 ms
+2021-02-22 22:14:41.811 +04:00 [INF] GetAll Called 2/22/2021 6:14:41 PM +00:00
+2021-02-22 22:14:41.821 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 10.1404 ms
+2021-02-22 22:14:43.145 +04:00 [INF] Delete Called 2/22/2021 6:14:43 PM +00:00
+2021-02-22 22:14:43.160 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=6 responded 200 in 14.5113 ms
+2021-02-22 22:14:43.182 +04:00 [INF] GetAll Called 2/22/2021 6:14:43 PM +00:00
+2021-02-22 22:14:43.190 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 7.8508 ms
+2021-02-22 22:14:44.516 +04:00 [INF] Delete Called 2/22/2021 6:14:44 PM +00:00
+2021-02-22 22:14:44.548 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=3 responded 200 in 32.1347 ms
+2021-02-22 22:14:44.578 +04:00 [INF] GetAll Called 2/22/2021 6:14:44 PM +00:00
+2021-02-22 22:14:44.585 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 7.0853 ms
+2021-02-22 22:14:45.448 +04:00 [INF] Delete Called 2/22/2021 6:14:45 PM +00:00
+2021-02-22 22:14:45.490 +04:00 [INF] HTTP DELETE /Applicant/Delete?id=2 responded 200 in 42.0666 ms
+2021-02-22 22:14:45.513 +04:00 [INF] GetAll Called 2/22/2021 6:14:45 PM +00:00
+2021-02-22 22:14:45.519 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 6.7853 ms
+2021-02-22 22:18:20.963 +04:00 [INF] GetAll Called 2/22/2021 6:18:20 PM +00:00
+2021-02-22 22:18:21.056 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 93.4162 ms
+2021-02-22 22:18:48.642 +04:00 [INF] HTTP GET /Applicant/GetById/1 responded 404 in 0.0305 ms
+2021-02-22 22:19:12.201 +04:00 [INF] HTTP GET /Applicant/GetById/[object%20Object] responded 404 in 0.0248 ms
+2021-02-22 22:20:39.139 +04:00 [INF] GetAll Called 2/22/2021 6:20:39 PM +00:00
+2021-02-22 22:20:39.160 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 21.5357 ms
+2021-02-22 22:21:18.398 +04:00 [INF] GetAll Called 2/22/2021 6:21:18 PM +00:00
+2021-02-22 22:21:18.423 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 24.4825 ms
+2021-02-22 22:21:50.096 +04:00 [INF] GetAll Called 2/22/2021 6:21:50 PM +00:00
+2021-02-22 22:21:50.229 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 133.6361 ms
+2021-02-22 22:21:57.652 +04:00 [INF] HTTP GET /Applicant/GetById/[object%20Object] responded 404 in 0.0178 ms
+2021-02-22 22:23:07.842 +04:00 [INF] HTTP GET /Applicant/GetById/[object%20Object] responded 404 in 0.0190 ms
+2021-02-22 22:23:08.973 +04:00 [INF] GetAll Called 2/22/2021 6:23:08 PM +00:00
+2021-02-22 22:23:08.989 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 15.5734 ms
+2021-02-22 22:23:10.421 +04:00 [INF] HTTP GET /Applicant/GetById/[object%20Object] responded 404 in 0.0132 ms
+2021-02-22 22:24:10.108 +04:00 [INF] GetAll Called 2/22/2021 6:24:10 PM +00:00
+2021-02-22 22:24:10.159 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 200 in 77.1914 ms
+2021-02-22 22:24:11.465 +04:00 [INF] GetAll Called 2/22/2021 6:24:11 PM +00:00
+2021-02-22 22:24:11.482 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 16.6003 ms
+2021-02-22 22:24:12.956 +04:00 [INF] GetAll Called 2/22/2021 6:24:12 PM +00:00
+2021-02-22 22:24:12.974 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 200 in 18.3742 ms
+2021-02-22 22:24:17.447 +04:00 [INF] GetAll Called 2/22/2021 6:24:17 PM +00:00
+2021-02-22 22:24:17.452 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 4.5965 ms
+2021-02-22 22:26:55.699 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 22:26:56.734 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 559.0552 ms
+2021-02-22 22:26:59.964 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 14.3715 ms
+2021-02-22 22:27:01.561 +04:00 [INF] GetAll Called 2/22/2021 6:27:01 PM +00:00
+2021-02-22 22:27:04.745 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 3207.6643 ms
+2021-02-22 22:27:07.074 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 1.5916 ms
+2021-02-22 22:27:15.772 +04:00 [INF] GetAll Called 2/22/2021 6:27:15 PM +00:00
+2021-02-22 22:27:15.887 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 116.7325 ms
+2021-02-22 22:27:17.194 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 5.5214 ms
+2021-02-22 22:27:20.856 +04:00 [INF] GetAll Called 2/22/2021 6:27:20 PM +00:00
+2021-02-22 22:27:20.887 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 31.7941 ms
+2021-02-22 22:28:05.783 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 20.0016 ms
+2021-02-22 22:28:06.773 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 1.2955 ms
+2021-02-22 22:28:08.762 +04:00 [INF] GetAll Called 2/22/2021 6:28:08 PM +00:00
+2021-02-22 22:28:08.770 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 8.7815 ms
+2021-02-22 22:29:03.812 +04:00 [INF] GetById Called 2/22/2021 6:29:03 PM +00:00
+2021-02-22 22:29:03.969 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 2533.1870 ms
+2021-02-22 22:30:04.617 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 6.2953 ms
+2021-02-22 22:30:32.930 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 21.3157 ms
+2021-02-22 22:30:35.032 +04:00 [INF] GetAll Called 2/22/2021 6:30:35 PM +00:00
+2021-02-22 22:30:35.048 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 16.0666 ms
+2021-02-22 22:31:07.782 +04:00 [INF] GetAll Called 2/22/2021 6:31:07 PM +00:00
+2021-02-22 22:31:07.930 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 147.9394 ms
+2021-02-22 22:31:34.416 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 8.6434 ms
+2021-02-22 22:31:49.051 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 12.6684 ms
+2021-02-22 22:31:50.610 +04:00 [INF] GetAll Called 2/22/2021 6:31:50 PM +00:00
+2021-02-22 22:31:50.640 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 30.1039 ms
+2021-02-22 22:31:51.672 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 3.0405 ms
+2021-02-22 22:32:21.203 +04:00 [INF] GetAll Called 2/22/2021 6:32:21 PM +00:00
+2021-02-22 22:32:21.270 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 67.4674 ms
+2021-02-22 22:32:22.349 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 3.2786 ms
+2021-02-22 22:32:28.923 +04:00 [INF] GetAll Called 2/22/2021 6:32:28 PM +00:00
+2021-02-22 22:32:28.932 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 8.8636 ms
+2021-02-22 22:33:05.459 +04:00 [INF] HTTP GET /Applicant/GetById?id=[object%20Object] responded 400 in 1.3766 ms
+2021-02-22 22:33:37.358 +04:00 [INF] HTTP GET /Applicant/GetById?id=NaN responded 400 in 1.3906 ms
+2021-02-22 22:33:39.433 +04:00 [INF] GetAll Called 2/22/2021 6:33:39 PM +00:00
+2021-02-22 22:33:39.445 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 11.3277 ms
+2021-02-22 22:33:40.619 +04:00 [INF] HTTP GET /Applicant/GetById?id=NaN responded 400 in 1.9484 ms
+2021-02-22 22:34:08.794 +04:00 [INF] HTTP GET /Applicant/GetById?id=NaN responded 400 in 4.8115 ms
+2021-02-22 22:34:11.333 +04:00 [INF] GetAll Called 2/22/2021 6:34:11 PM +00:00
+2021-02-22 22:34:11.353 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 19.5461 ms
+2021-02-22 22:34:12.597 +04:00 [INF] HTTP GET /Applicant/GetById?id=NaN responded 400 in 1.4822 ms
+2021-02-22 22:34:28.334 +04:00 [INF] GetById Called 2/22/2021 6:34:28 PM +00:00
+2021-02-22 22:34:28.354 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 4518.0373 ms
+2021-02-22 22:35:45.928 +04:00 [INF] HTTP GET /Applicant/GetById?id=1[object%20Object] responded 400 in 7.8732 ms
+2021-02-22 22:35:48.471 +04:00 [INF] GetAll Called 2/22/2021 6:35:48 PM +00:00
+2021-02-22 22:35:48.496 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 25.2080 ms
+2021-02-22 22:35:49.760 +04:00 [INF] HTTP GET /Applicant/GetById?id=1[object%20Object] responded 400 in 0.8863 ms
+2021-02-22 22:35:56.709 +04:00 [INF] GetAll Called 2/22/2021 6:35:56 PM +00:00
+2021-02-22 22:35:56.752 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 43.4599 ms
+2021-02-22 22:36:53.037 +04:00 [INF] HTTP GET /Applicant/GetById?id=1[object%20Object] responded 400 in 1.6222 ms
+2021-02-22 22:37:00.482 +04:00 [INF] GetById Called 2/22/2021 6:37:00 PM +00:00
+2021-02-22 22:37:00.493 +04:00 [INF] HTTP GET /Applicant/GetById?id=11 responded 200 in 6831.0794 ms
+2021-02-22 22:37:03.898 +04:00 [INF] GetAll Called 2/22/2021 6:37:03 PM +00:00
+2021-02-22 22:37:03.910 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 11.9490 ms
+2021-02-22 22:37:05.290 +04:00 [INF] GetById Called 2/22/2021 6:37:05 PM +00:00
+2021-02-22 22:37:05.296 +04:00 [INF] HTTP GET /Applicant/GetById?id=11 responded 200 in 6.4612 ms
+2021-02-22 22:37:12.568 +04:00 [INF] GetAll Called 2/22/2021 6:37:12 PM +00:00
+2021-02-22 22:37:12.573 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 5.3327 ms
+2021-02-22 22:37:28.428 +04:00 [INF] GetById Called 2/22/2021 6:37:28 PM +00:00
+2021-02-22 22:37:28.433 +04:00 [INF] HTTP GET /Applicant/GetById?id=11 responded 200 in 5.1881 ms
+2021-02-22 22:37:29.240 +04:00 [INF] GetById Called 2/22/2021 6:37:29 PM +00:00
+2021-02-22 22:37:29.251 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 11.2929 ms
+2021-02-22 22:37:30.302 +04:00 [INF] GetAll Called 2/22/2021 6:37:30 PM +00:00
+2021-02-22 22:37:30.309 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 7.0490 ms
+2021-02-22 22:37:31.997 +04:00 [INF] GetById Called 2/22/2021 6:37:31 PM +00:00
+2021-02-22 22:37:32.010 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 13.0341 ms
+2021-02-22 22:40:00.824 +04:00 [INF] GetById Called 2/22/2021 6:40:00 PM +00:00
+2021-02-22 22:40:00.850 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 26.0613 ms
+2021-02-22 22:40:25.105 +04:00 [INF] GetById Called 2/22/2021 6:40:25 PM +00:00
+2021-02-22 22:40:25.131 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 26.6944 ms
+2021-02-22 22:41:00.545 +04:00 [INF] Update Called 2/22/2021 6:41:00 PM +00:00
+2021-02-22 22:41:02.757 +04:00 [INF] HTTP PUT /Applicant/Update responded 400 in 2231.6253 ms
+2021-02-22 22:41:08.772 +04:00 [INF] HTTP GET /Applicant/Update responded 405 in 5.7718 ms
+2021-02-22 22:41:10.786 +04:00 [INF] HTTP GET /Applicant/Update responded 405 in 0.0204 ms
+2021-02-22 22:47:04.876 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 22:47:05.297 +04:00 [INF] GetById Called 2/22/2021 6:47:05 PM +00:00
+2021-02-22 22:47:07.763 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 2799.8141 ms
+2021-02-22 22:47:47.850 +04:00 [INF] Update Called 2/22/2021 6:47:47 PM +00:00
+2021-02-22 22:47:48.635 +04:00 [INF] HTTP PUT /Applicant/Update responded 400 in 12042.8421 ms
+2021-02-22 22:49:51.206 +04:00 [INF] GetById Called 2/22/2021 6:49:51 PM +00:00
+2021-02-22 22:49:51.342 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 153.4729 ms
+2021-02-22 22:54:20.590 +04:00 [WRN] Failed to determine the https port for redirect.
+2021-02-22 22:54:21.071 +04:00 [INF] GetById Called 2/22/2021 6:54:21 PM +00:00
+2021-02-22 22:54:22.530 +04:00 [INF] GetAll Called 2/22/2021 6:54:22 PM +00:00
+2021-02-22 22:54:22.917 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 2209.5520 ms
+2021-02-22 22:54:22.917 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 402.1500 ms
+2021-02-22 22:54:23.915 +04:00 [INF] GetById Called 2/22/2021 6:54:23 PM +00:00
+2021-02-22 22:54:23.938 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 25.4597 ms
+2021-02-22 22:54:35.365 +04:00 [INF] Update Called 2/22/2021 6:54:35 PM +00:00
+2021-02-22 22:54:36.385 +04:00 [INF] HTTP PUT /Applicant/Update responded 400 in 8270.6740 ms
+2021-02-22 22:55:00.810 +04:00 [INF] Update Called 2/22/2021 6:55:00 PM +00:00
+2021-02-22 22:55:03.713 +04:00 [INF] HTTP PUT /Applicant/Update responded 200 in 4481.3781 ms
+2021-02-22 22:55:03.835 +04:00 [INF] GetAll Called 2/22/2021 6:55:03 PM +00:00
+2021-02-22 22:55:03.840 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 5.1122 ms
+2021-02-22 22:55:10.565 +04:00 [INF] GetById Called 2/22/2021 6:55:10 PM +00:00
+2021-02-22 22:55:10.571 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 6.5899 ms
+2021-02-22 22:55:20.032 +04:00 [INF] Update Called 2/22/2021 6:55:20 PM +00:00
+2021-02-22 22:55:20.344 +04:00 [INF] HTTP PUT /Applicant/Update responded 200 in 5948.8288 ms
+2021-02-22 22:55:20.436 +04:00 [INF] GetAll Called 2/22/2021 6:55:20 PM +00:00
+2021-02-22 22:55:20.450 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 13.9957 ms
+2021-02-22 22:57:18.085 +04:00 [INF] GetAll Called 2/22/2021 6:57:18 PM +00:00
+2021-02-22 22:57:18.095 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 13.6975 ms
+2021-02-22 22:57:37.201 +04:00 [INF] GetById Called 2/22/2021 6:57:37 PM +00:00
+2021-02-22 22:57:37.206 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 5.1624 ms
+2021-02-22 22:57:39.886 +04:00 [INF] Update Called 2/22/2021 6:57:39 PM +00:00
+2021-02-22 22:57:41.217 +04:00 [INF] HTTP PUT /Applicant/Update responded 400 in 1331.7271 ms
+2021-02-22 23:25:18.011 +04:00 [INF] GetById Called 2/22/2021 7:25:18 PM +00:00
+2021-02-22 23:25:18.101 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 90.1606 ms
+2021-02-22 23:25:32.835 +04:00 [INF] GetById Called 2/22/2021 7:25:32 PM +00:00
+2021-02-22 23:25:32.841 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 6.3790 ms
+2021-02-22 23:25:58.484 +04:00 [INF] GetById Called 2/22/2021 7:25:58 PM +00:00
+2021-02-22 23:25:58.536 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 51.8469 ms
+2021-02-22 23:28:33.893 +04:00 [INF] GetById Called 2/22/2021 7:28:33 PM +00:00
+2021-02-22 23:28:33.932 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 39.3152 ms
+2021-02-22 23:30:00.251 +04:00 [INF] GetById Called 2/22/2021 7:30:00 PM +00:00
+2021-02-22 23:30:00.463 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 225.6784 ms
+2021-02-22 23:31:01.748 +04:00 [INF] GetById Called 2/22/2021 7:31:01 PM +00:00
+2021-02-22 23:31:01.785 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 36.6232 ms
+2021-02-22 23:32:08.565 +04:00 [INF] GetById Called 2/22/2021 7:32:08 PM +00:00
+2021-02-22 23:32:08.592 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 27.3988 ms
+2021-02-22 23:34:21.344 +04:00 [INF] GetById Called 2/22/2021 7:34:21 PM +00:00
+2021-02-22 23:34:21.422 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 78.2658 ms
+2021-02-22 23:49:23.264 +04:00 [INF] GetById Called 2/22/2021 7:49:23 PM +00:00
+2021-02-22 23:49:23.373 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 108.7093 ms
+2021-02-22 23:54:36.318 +04:00 [INF] Update Called 2/22/2021 7:54:36 PM +00:00
+2021-02-22 23:54:37.166 +04:00 [INF] HTTP PUT /Applicant/Update responded 200 in 848.7856 ms
+2021-02-22 23:54:37.342 +04:00 [INF] GetAll Called 2/22/2021 7:54:37 PM +00:00
+2021-02-22 23:54:37.350 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 7.7904 ms
+2021-02-22 23:54:41.092 +04:00 [INF] GetById Called 2/22/2021 7:54:41 PM +00:00
+2021-02-22 23:54:41.115 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 23.5433 ms
+2021-02-22 23:54:42.904 +04:00 [INF] Update Called 2/22/2021 7:54:42 PM +00:00
+2021-02-22 23:54:43.158 +04:00 [INF] HTTP PUT /Applicant/Update responded 200 in 254.9978 ms
+2021-02-22 23:54:43.270 +04:00 [INF] GetAll Called 2/22/2021 7:54:43 PM +00:00
+2021-02-22 23:54:43.303 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 32.4427 ms
+2021-02-22 23:55:01.338 +04:00 [INF] GetAll Called 2/22/2021 7:55:01 PM +00:00
+2021-02-22 23:55:01.365 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 26.6575 ms
+2021-02-22 23:55:04.066 +04:00 [INF] GetById Called 2/22/2021 7:55:04 PM +00:00
+2021-02-22 23:55:04.077 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 12.1662 ms
+2021-02-22 23:55:07.219 +04:00 [INF] Update Called 2/22/2021 7:55:07 PM +00:00
+2021-02-22 23:55:07.566 +04:00 [INF] HTTP PUT /Applicant/Update responded 200 in 347.4227 ms
+2021-02-22 23:55:07.694 +04:00 [INF] GetAll Called 2/22/2021 7:55:07 PM +00:00
+2021-02-22 23:55:07.701 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 7.1539 ms
+2021-02-22 23:55:24.612 +04:00 [INF] GetById Called 2/22/2021 7:55:24 PM +00:00
+2021-02-22 23:55:24.686 +04:00 [INF] HTTP GET /Applicant/GetById?id=1 responded 200 in 74.9798 ms
+2021-02-22 23:55:27.913 +04:00 [INF] GetAll Called 2/22/2021 7:55:27 PM +00:00
+2021-02-22 23:55:27.931 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 17.8983 ms
+2021-02-22 23:56:14.455 +04:00 [INF] GetAll Called 2/22/2021 7:56:14 PM +00:00
+2021-02-22 23:56:14.468 +04:00 [INF] HTTP GET /Applicant/GetAll responded 200 in 12.4841 ms
