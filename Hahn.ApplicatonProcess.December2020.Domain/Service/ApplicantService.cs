@@ -15,9 +15,9 @@ namespace Hahn.ApplicatonProcess.December2020.Domain.Service
     {
         private readonly IMapper Mapper;
         private readonly DataContext DataContext;
-        public ApplicantService(IMapper _Mapper)
+        public ApplicantService(IMapper _Mapper, DataContext _DataContext)
         {
-            DataContext = new DataContext();
+            DataContext = _DataContext;
             Mapper = _Mapper;
         }
         public async Task<EntityResponseModel<ApplicantModel>> Insert(ApplicantModel model)
@@ -76,7 +76,7 @@ namespace Hahn.ApplicatonProcess.December2020.Domain.Service
                 applicant.ID = model.ID;
 
                 DataContext.Applicant.Update(applicant);
-                DataContext.SaveChanges();
+                await DataContext.SaveChangesAsync();
                 response.Data = Mapper.Map<ApplicantModel>(applicant);
             }
             catch (Exception ex)

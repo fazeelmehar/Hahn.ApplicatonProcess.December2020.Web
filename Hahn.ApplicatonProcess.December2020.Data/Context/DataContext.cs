@@ -12,16 +12,8 @@ namespace Hahn.ApplicatonProcess.December2020.Data.Context
         public static IConfiguration _Configuration;
         public DbSet<Applicant> Applicant { get; set; }
 
-        //public DataContext(DbContextOptions<DataContext> options) : base(options)
-        //{
-        //}
-        public DataContext()
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-            
-        }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=AppicantDb;Integrated Security=SSPI;Connect Timeout=15;Encrypt=False;Packet Size=4096;");
         }
        
         protected override void OnModelCreating(ModelBuilder modelBuilder)

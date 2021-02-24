@@ -55,14 +55,6 @@ namespace Hahn.ApplicatonProcess.December2020.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddLogging(
-            //    builder =>
-            //    {
-            //        builder.AddSeq(Configuration.GetSection("Seq"));
-            //    });
-            //services.AddSingleton<Serilog.ILogger>(Logger);
-
-            //services.AddSingleton((Serilog.ILogger)Log.Logger);
             services.AddCors(options =>
             {
                 options.AddPolicy("Dev", builder => builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
@@ -71,8 +63,8 @@ namespace Hahn.ApplicatonProcess.December2020.Web
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             services.AddDbContextFactory<DataContext>(b =>
-                     b.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
+            b.UseInMemoryDatabase(databaseName: "AppicantDb"));
+            services.AddScoped<DataContext>();
             services.AddAutoMapper(typeof(Startup));
             var mapperConfig = new MapperConfiguration(mc =>
             {
@@ -138,30 +130,15 @@ namespace Hahn.ApplicatonProcess.December2020.Web
                 app.UseHsts();
             }
             loggerFactory.AddSerilog(Logger);
-
-            // Other settings here.
-
-            //Logger.Information("Application started");
-            //app.UseSerilogRequestLogging();
-
             app.UseHttpsRedirection();
-
             app.UseSerilogRequestLogging();
             app.UseRouting();
-
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
 
         }
-        //private void JsonOptions(MvcJsonOptions options)
-        //{
-        //    options.SerializerSettings.Converters.Add(new Newtonsoft.Json.Converters.StringEnumConverter());
-        //    options.SerializerSettings.NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore;
-        //    options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
-        //}
     }
 }
